@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-28T11:46:16 CDT" name="PetStoresSuite" finished-at="2023-09-28T11:46:28 CDT" duration-ms="11984">
+    <groups>
+    </groups>
+    <test started-at="2023-09-28T11:46:16 CDT" name="Test" finished-at="2023-09-28T11:46:28 CDT" duration-ms="11984">
+      <class name="api.tests.UserTests2">
+        <test-method is-config="true" signature="setUpUserData()[pri:0, instance:api.tests.UserTests2@239a307b]" started-at="2023-09-28T11:46:17 CDT" name="setUpUserData" finished-at="2023-09-28T11:46:19 CDT" duration-ms="2325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpUserData -->
+        <test-method signature="testCreateNewUser()[pri:1, instance:api.tests.UserTests2@239a307b]" started-at="2023-09-28T11:46:19 CDT" name="testCreateNewUser" finished-at="2023-09-28T11:46:27 CDT" duration-ms="7199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateNewUser -->
+        <test-method signature="getUserDetails()[pri:2, instance:api.tests.UserTests2@239a307b]" started-at="2023-09-28T11:46:27 CDT" name="getUserDetails" finished-at="2023-09-28T11:46:27 CDT" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+        <test-method signature="updateExistingUser()[pri:3, instance:api.tests.UserTests2@239a307b]" started-at="2023-09-28T11:46:27 CDT" name="updateExistingUser" finished-at="2023-09-28T11:46:28 CDT" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateExistingUser -->
+        <test-method signature="deleteExistingUser()[pri:4, instance:api.tests.UserTests2@239a307b]" started-at="2023-09-28T11:46:28 CDT" name="deleteExistingUser" finished-at="2023-09-28T11:46:28 CDT" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteExistingUser -->
+      </class> <!-- api.tests.UserTests2 -->
+    </test> <!-- Test -->
+  </suite> <!-- PetStoresSuite -->
+</testng-results>
